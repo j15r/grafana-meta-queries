@@ -6,7 +6,7 @@ Need to clone this repo into your grafana plugins directory (default /var/lib/gr
 Restart grafana-server and the plugin should be automatically detected and used.
 
 ```
-git clone git@github.com:GoshPosh/grafana-meta-queries.git
+git clone git@github.com:j15r/grafana-meta-queries.git
 sudo service grafana-server restart
 ```  
 
